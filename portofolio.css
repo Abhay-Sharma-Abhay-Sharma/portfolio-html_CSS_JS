@@ -691,7 +691,7 @@ footer span a:hover {
 
 @media (max-width: 991px) {
   .max-width {
-    padding: 0 50px;
+    padding: 0 30px;
   }
 }
 
@@ -699,6 +699,7 @@ footer span a:hover {
   .menu-btn {
     display: block;
     z-index: 999;
+    color:red;
   }
 
   .menu-btn i.active:before {
